@@ -1,6 +1,6 @@
 # final-project
 
-Link to demonstration page (i.e. Github Pages)
-Link to YouTube reflection video
-A brief description of the project
-   This is about
+- See repository: https://github.com/jmk2142/TodoMSTU5003
+- See demonstration: https://codepen.io/jmk2142/pen/oGxwPQ
+- Tinker Markdown (Prettier): https://hackmd.io/s/SkY3UWsMb
+
